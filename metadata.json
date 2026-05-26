@@ -1,0 +1,6 @@
+{
+  "name": "Pulsar DJ",
+  "description": "Professional DJ Deck for Techno, High-Tech, and Psytrance. Features responsive vinyl emulation, multi-track waveforms, interactive DVS mapping, cloud backup, smart track analytics, and audio effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
